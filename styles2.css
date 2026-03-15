@@ -1,0 +1,42 @@
+
+
+h1 {
+    font-size: 48px;
+}
+
+body {
+    height: 1024px;
+    background-image: linear-gradient(0deg, rgba(0,60,85,1) 0%, rgba(0,135,193,1) 35%, rgba(0,212,255,1) 100%);
+    font-family: Verdana;
+}
+
+img {
+    border-radius: 12px;
+    border-color: white;
+}
+
+.rounded {
+    border-radius: 16px;
+}
+
+.square {
+    aspect-ratio: 1;
+}
+
+.sticker {
+    border-style: solid;
+    border-width: 8px;
+    border-color: aqua;
+    border-radius: 16px;
+}
+
+.cool-text {
+    border-style: double;
+    border-width: 8px;
+    border-color: limegreen;
+    background-color: black;
+    color: limegreen;
+    border-radius: 16px;
+    font-family: monospace;
+    padding: 24px;
+}
