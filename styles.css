@@ -1,14 +1,3 @@
-:root {
-    --bg-warm-gray: #F4F1EE;
-    --surface-warm-gray: #EBE6E0;
-    --text-dark: #3A3532;
-    --text-light: #7A746E;
-
-    /* Primary Accents */
-    --accent-red: #D92525;
-    --accent-blue: #0F52BA;
-    --accent-yellow: #FFB703;
-}
 * {
     margin: default;
     padding: default;
